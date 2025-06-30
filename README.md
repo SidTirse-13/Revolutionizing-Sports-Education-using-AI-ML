@@ -29,15 +29,21 @@ This project leverages AI and ML to provide an enhanced sports learning experien
 | 🔗 APIs & Tools   | WebRTC, Stripe (for payments), Geo API, News API |
 
 ## 📷 Screenshots / Demo
+
 Landing Page       - <img width="315" alt="LP" src="https://github.com/user-attachments/assets/4fe43d21-5e9b-430e-b0cc-82e111694bbc" />
+
 Login/Signup       - <img width="329" alt="SP" src="https://github.com/user-attachments/assets/75c5f113-ed91-48c2-969c-bb876950ed5f" />
+
 News Feed          - <img width="330" alt="NF" src="https://github.com/user-attachments/assets/0f1c7769-cf87-4441-b860-86dfd440897c" />
+
 Video Conferencing - <img width="537" alt="VC" src="https://github.com/user-attachments/assets/db99c967-8fb5-422f-b62e-2480425a5baf" />
+
 Locate Academies   - <img width="329" alt="GPS" src="https://github.com/user-attachments/assets/9983392e-90dd-4f11-be45-8d74e0827943" />
+
 Score Prediction   - <img width="494" alt="SPr" src="https://github.com/user-attachments/assets/68e33784-cd52-42e3-bd13-720bda8bc37e" />
 
 
 🚀 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/revolutionizing-sports-education-ai-ml.git
+https://github.com/SidTirse-13/Revolutionizing-Sports-Education-using-AI-ML.git
